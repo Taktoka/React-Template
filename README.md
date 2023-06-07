@@ -16,7 +16,7 @@
 ### Links
 
 - Solution URL: [https://github.com/Taktoka/React-Template.git](https://github.com/Taktoka/React-Template.git)
-- Live Site URL: []()
+- Live Site URL: [https://react-template-beta.vercel.app/](https://react-template-beta.vercel.app/)
 
 ## Author
 
